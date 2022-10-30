@@ -1,0 +1,8 @@
+{
+  "defaultCommandTimeout": 30000,
+  "env": {
+    "url": "http://automationpractice.com/index.php"
+  },
+  "watchForFileChanges": false,
+  "projectId": "pqw5jq"
+}
